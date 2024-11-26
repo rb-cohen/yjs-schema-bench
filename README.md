@@ -120,7 +120,7 @@ This benchmark evaluates the performance of various schemas when handling update
 }
 ```
 
-#### YXmlElement on Root
+#### YXmlElement on Root
 
 ```json
 {
